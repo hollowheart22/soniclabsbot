@@ -40,8 +40,8 @@ About Sonic Labs (Prev Fantom)
 1. clone the repo and install dependencies
 
    ```bash
-   git clone https://github.com/web3bothub/soniclabs-arcade-bot.git
-   cd soniclabs-arcade-bot
+   git clone https://github.com/hollowheart22/soniclabsbot.git
+   cd soniclabsbot
    npm install
    ```
 
@@ -67,15 +67,15 @@ About Sonic Labs (Prev Fantom)
 1. clone the repo and install dependencies
 
    ```bash
-   git clone https://github.com/web3bothub/soniclabs-arcade-bot.git
-   cd soniclabs-arcade-bot
+   git clone https://github.com/hollowheart22/soniclabsbot.git
+   cd soniclabsbot
    npm install
    ```
 
 1. Navigate to `soniclabs-arcade-bot` directory.
 1. cp `.env.example` to file `.env`
 1. Now open `.env` and config your account private key or mnemonic, and optionally you can add proxy for each account.
-1. Back to `soniclabs-arcade-bot` directory.
+1. Back to `soniclabsbot` directory.
 1. In your `Command Prompt` or `Power Shell`, run the bot:
 
     ```bash
